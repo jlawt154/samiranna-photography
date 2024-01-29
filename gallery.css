@@ -1,0 +1,32 @@
+*{
+    /* font-family: 'League Script', cursive; */
+    font-family: 'Montserrat', sans-serif;
+    padding:0;
+}
+:root {
+    --primary: #BE8868;
+    --secondary: #D5B8A1;
+    --tertiary: #E1D5CA;
+    --quaternary: #EDE2D9;
+}
+.primaryBGC {
+    background-color: var(--primary);
+    margin-bottom: 5%;
+  }
+  .secondaryBGC {
+    background-color: var(--secondary);
+  }
+  .tertiaryBGC {
+    background-color: var(--tertiary);
+  }
+  .quaternaryBGC {
+    background-color: var(--quaternary);
+  }
+
+  .nav-item{
+    margin-left:5vw;
+    font-size: 1.5vw;
+  }
+  a{
+    font-family: 'Montserrat', sans-serif;
+  }
