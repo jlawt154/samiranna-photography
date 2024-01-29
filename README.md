@@ -1,2 +1,2 @@
-# shark_bytes
-Home for all projects made for Shark Bytes WBLA team.
+# Samiranna_Photography
+Home for the Samiranna Photograpy page made by the Shark Bytes WBLA team.
